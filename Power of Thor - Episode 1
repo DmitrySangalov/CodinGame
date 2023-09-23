@@ -13,7 +13,7 @@ light_x, light_y, initial_tx, initial_ty = [int(i) for i in input().split()]
 thor_x, thor_y = initial_tx, initial_ty
 
 
-while 1:
+while True:
     remaining_turns = int(input())
     
     direction_x = ""
