@@ -1,6 +1,8 @@
 import sys
 import math
 
+#find the highest mountain out of a list of mountains
+
 while True:
     max = 0
     imax = 0
